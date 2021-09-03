@@ -1,0 +1,4 @@
+[25-Jul-2021 16:49:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'webdevpr_legalshastra'@'localhost' (using password: YES) in /home2/webdevprojectorg/public_html/legalShastra/database/db_connect.php on line 10
+[25-Jul-2021 16:50:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'webdevpr_legalshastra'@'localhost' (using password: YES) in /home2/webdevprojectorg/public_html/legalShastra/database/db_connect.php on line 10
+[25-Jul-2021 16:50:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'webdevpr_legalshastra'@'localhost' (using password: YES) in /home2/webdevprojectorg/public_html/legalShastra/database/db_connect.php on line 10
+[25-Jul-2021 16:50:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'webdevpr_legalshastra'@'localhost' (using password: YES) in /home2/webdevprojectorg/public_html/legalShastra/database/db_connect.php on line 10
